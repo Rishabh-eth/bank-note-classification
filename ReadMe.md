@@ -38,9 +38,9 @@ This project uses the Hydra library to manage configurations. The configuration 
 ## Dependencies
 This project requires the following dependencies:
 
--Python 3.6 or higher
--PyTorch 1.8 or higher
--TorchVision 0.9 or higher
--Hydra 1.1 or higher
--WandB 0.12 or higher (optional, for logging training metrics)
+1. Python 3.6 or higher
+2. PyTorch 1.8 or higher
+3. TorchVision 0.9 or higher
+4. Hydra 1.1 or higher
+5. WandB 0.12 or higher (optional, for logging training metrics)
 
