@@ -44,10 +44,6 @@ This project requires the following dependencies:
 4. Hydra 1.1 or higher
 5. WandB 0.12 or higher (optional, for logging training metrics)
 
-# Technical Presentation
-
-The technical presentation can be found in the file: [Technical_presentation](Technical_presentation.pdf)
-
 # Answers
 
 All the answers to intermediate questions asked in task 1 are in the file: [Answers](Answers.pdf)
